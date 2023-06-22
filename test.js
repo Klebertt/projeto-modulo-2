@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-describe('Fetch API Tests', () => {
+describe('Testes API', () => {
   it('getData deve retornar os dados da API', async () => {
     const data = await getData();
     assert.ok(data); 
