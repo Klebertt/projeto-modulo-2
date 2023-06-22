@@ -9,7 +9,7 @@ describe('Fetch API Tests', () => {
 
   it('tab deve retornar os dados da API da pagina 1', async () => {
     const data = await tab();
-    assert.ok(data); //
+    assert.ok(data);
     assert.ok(data.length > 0);
   });
 
