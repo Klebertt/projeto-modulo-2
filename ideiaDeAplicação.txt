@@ -1,4 +1,4 @@
-Uma ideia de aplicação utilizando a Random Users API é um "gerador de perfis de personagens". A aplicação poderia gerar perfis de personagens fictícios com base nos dados fornecidos pela API, incluindo nome, idade, foto e outros detalhes.
+Uma ideia de aplicação utilizando a Random Users API seria um "gerador de perfis de personagens". A aplicação poderia gerar perfis de personagens fictícios com base nos dados fornecidos pela API, incluindo nome, idade, foto e outros detalhes.
 
 Os usuários poderiam utilizar essa aplicação para criar perfis de personagens para histórias, jogos de RPG ou qualquer outro contexto criativo. Seria possível gerar perfis aleatórios a cada vez que o usuário atualizar a página ou permitir que o usuário especifique algumas características desejadas, como gênero, idade ou nacionalidade.
 
